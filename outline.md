@@ -2,7 +2,7 @@
 
 # Summary
 
-The idea behind class achievements is to provide support for a Standards Based Assessment approach for a TEALS introductory to Computer Science class.
+The idea behind class achievements is to provide support for a Standards Based Assessment approach for a TEALS Introduction to Computer Science class.
 
 The ideas and research behind Standard Based Assessment come from:
 
@@ -21,23 +21,23 @@ Students should have many options available for them to demonstrate that they ha
 
 # The purpose of assessment is to improve performance.
 
-The highest level of personal satisfaction and self esteem comes not from false affirmation and avoidance of challenges but from success after a series of trials and errors.
+> The highest level of personal satisfaction and self esteem comes not from false affirmation and avoidance of challenges but from success after a series of trials and errors.
 
 The purpose of the site is to make the class objectives clear and provide clear consistent feedback about what needs to be done to improve class and individual student performance.
 
 
 # Specific Site Support Goals
 
-The following are specific highe level scenarios the site should achieve.
+The following are the specific high level scenarios the site should achieve.
 
 * Allow the creation of standard objectives and how their achievement can be assessed for a class.
 * Keep track of each students progress towards the classes learning objectives.
-** The teacher should be able to see each students progress toward achieving each objective.
-** The teacher should be able to modify each students progress toward each objective.
-** Each student should be able to see each class objective and what they need to do achieve it.
-** Each student should be able to see their current progress towards and achievement of each class objective.
-** Each student should be able to note their own progress towards each objective.
-*** Each student should be able to indicate areas they think they have achieved and areas they are struggling with.
+    * The teacher should be able to see each students progress toward achieving each objective.
+    * The teacher should be able to modify each students progress toward each objective.
+    * Each student should be able to see each class objective and what they need to do achieve it.
+    * Each student should be able to see their current progress towards and achievement of each class objective.
+    * Each student should be able to note their own progress towards each objective.
+        * Each student should be able to indicate areas they think they have achieved and areas they are struggling with.
 
 
 
