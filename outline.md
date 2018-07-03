@@ -13,9 +13,15 @@ Standards Based Assessment focuses less on assignments and more on achieving stu
 
 For Example: A student who struggles initially with a subject but who then meets all objectives on the last day of a course should do just as well in a course as a student who has mastered all objectives at the begining of the course.
 
+The class expectation is that **all** students will meet **all** class objectives.
+
 Learning objectives are defined at a high level along with the specific ways that students can demonstrate they have achieved those objectives. This makes it clear to students and teachers exactly what is required to achieve all course objectives up front.
 
+> Research has shown that students do better in classes that state clear learning objectives up front.
+
 Learning objectives should be assessed across all stages of Blooms Taxonomy. {Remember, Understand, Apply, Analyze, Evaluate, Create}
+
+> It's critical that students are able to master all levels of Blooms Taxonomy for each learning ojective. Developing each students higher level thinking skills is especially critical as these skills are widely applicable.
 
 Students should have many options available for them to demonstrate that they have met a class objective.
 
@@ -39,6 +45,45 @@ The following are the specific high level scenarios the site should achieve.
     * Each student should be able to note their own progress towards each objective.
         * Each student should be able to indicate areas they think they have achieved and areas they are struggling with.
 
+
+# Site Interactive Scenarios
+
+The site will make it readily apparent to teachers how their class is doing, what areas they need to focus on with what groups of students.
+
+The site will be a good tool for teachers to communicate with parents early and often exactly how well their student is doign in class
+
+The site will make it easy for teachers to report to administrators their classes progress.
+
+
+
+
+
+# Suggested High Level Objectives for Introduction to Computer Science
+
+High level objectives should not be tied to any specific programming language or environment. The high level ideas and concepts should be applicable to any system that students are attempting to describe.
+
+For example: Factories, Restaurants, Traffic, etc...
+
+High level objectives in turn can be broken down into more specific objectives and specific ways they can be demonstrated.
+
+## High Level Objectives Sample
+
+* Problem Solving Techniques
+    * Problem Definition
+        * Inquery, research, elicitation
+    * Divide and Conquer
+    * Isolation
+* Data
+    * Input
+    * Output
+    * Types
+* Flow
+    * Sequential
+    * Conditional
+        * Boolean Logic
+    * Repetative
+
+There are potentially additional objectives around communication and teamwork as these are essential for problem solving. Strong teams are made of strong individuals who work together well.
 
 
 
