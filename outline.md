@@ -16,4 +16,3 @@ For Example: A student who struggles initially with a subject but who then meets
 Learning objectives are be defined at a high level along with specific ways that students can demonstrate they have achieved those objectives. This makes it clear to students and teachers exactly what is required to achieve all course objectives up front.
 
 
-Meaning that for any class objective students have many options available for them to demonstrate that they have met the classroom objective.
