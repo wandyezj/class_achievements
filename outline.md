@@ -21,9 +21,34 @@ Learning objectives are defined at a high level along with the specific ways tha
 
 Learning objectives should be assessed across all stages of Blooms Taxonomy. {Remember, Understand, Apply, Analyze, Evaluate, Create}
 
-> It's critical that students are able to master all levels of Blooms Taxonomy for each learning ojective. Developing each students higher level thinking skills is especially critical as these skills are widely applicable.
+> It's critical that students are able to master all levels of Blooms Taxonomy for each learning objective. Developing each students higher level thinking skills is especially critical as these skills are widely applicable.
 
 Students should have many options available for them to demonstrate that they have met a class objective.
+
+# Existing Standard References
+
+[Computer Science Teachers Association CSTA K-12 Computer Science Standards](https://www.csteachers.org/page/standards)
+
+[Washington State Computer Science K-12 Learning Standards](http://www.k12.wa.us/ComputerScience/LearningStandards.aspx)
+
+[#CSinSF DRAFT CS Teaching Rubric](https://sites.google.com/sfusd.edu/csplc/resources/teaching-rubric)
+
+# Existing Computer Science Curriculum
+
+[Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
+
+[Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
+
+[TEALS Introductory to Computer Science SNAP Curriculum](https://github.com/TEALSK12/introduction-to-computer-science)
+
+[TEALS Introductory to Computer Science Python Curriculum](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science)
+
+[Code.org](https://studio.code.org/courses)
+
+[Learn Python.org](https://www.learnpython.org/)
+
+
+
 
 # The purpose of assessment is to improve performance.
 
@@ -50,7 +75,7 @@ The following are the specific high level scenarios the site should achieve.
 
 The site will make it readily apparent to teachers how their class is doing, what areas they need to focus on with what groups of students.
 
-The site will be a good tool for teachers to communicate with parents early and often exactly how well their student is doign in class
+The site will be a good tool for teachers to communicate with parents early and often exactly how well their student is doing in class.
 
 The site will make it easy for teachers to report to administrators their classes progress.
 
