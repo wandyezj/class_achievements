@@ -13,7 +13,7 @@ Standards Based Assessment focuses less on assignments and more on achieving stu
 
 For Example: A student who struggles initially with a subject but who then meets all objectives on the last day of a course should do just as well in a course as a student who has mastered all objectives at the begining of the course.
 
-The class expectation is that **all** students will meet **all** class objectives.
+>The class expectation is that **all** students will meet **all** class objectives.
 
 Learning objectives are defined at a high level along with the specific ways that students can demonstrate they have achieved those objectives. This makes it clear to students and teachers exactly what is required to achieve all course objectives up front.
 
@@ -25,7 +25,26 @@ Learning objectives should be assessed across all stages of Blooms Taxonomy. {Re
 
 Students should have many options available for them to demonstrate that they have met a class objective.
 
-# Existing Standard References
+# Existing Materials
+
+
+
+## Existing Learning Management Systems (LMS)
+
+Classrooms use a variety of LMS with various levels of support from their adminstrators: {none, optional, mandated}.
+
+LMS that TEALS has encountered in classrooms.
+
+* [Canvas](https://canvas.instructure.com)
+* [Google Classroom](https://edu.google.com/intl/en/k-12-solutions/classroom/)
+* [Schoology](https://www.schoology.com/)
+* [Jupiter Grades](http://jupitered.com/)
+* Other
+* None
+
+
+
+## Existing Standard References
 
 [Computer Science Teachers Association CSTA K-12 Computer Science Standards](https://www.csteachers.org/page/standards)
 
@@ -33,7 +52,11 @@ Students should have many options available for them to demonstrate that they ha
 
 [#CSinSF DRAFT CS Teaching Rubric](https://sites.google.com/sfusd.edu/csplc/resources/teaching-rubric)
 
-# Existing Computer Science Curriculum
+[ISTE Standards for Computer Science Educators](http://www.iste.org/standards/for-computer-science-educators)
+
+
+
+## Existing Computer Science Curriculum References
 
 [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
 
@@ -48,6 +71,36 @@ Students should have many options available for them to demonstrate that they ha
 [Learn Python.org](https://www.learnpython.org/)
 
 
+
+## Analysis of Existing Systems
+
+There are many existing LMS. As TEALS moves through and supports classrooms with new volunteers various LMS are encountered with various levels of support.
+
+There are many Computer Science Standards. The CTSA standard has increasing levels of support and is the one that TEALS would like to support.
+
+There are many Computer Science curriculums. Once objectives are defined we should see what pieces of each curriculum best match to achieving those objectives filling in the gaps where appropriate.
+
+
+Focus Areas:
+
+1. Develop Minimum Viable Product website to host interactive standards as a demonstration platform.
+2. Pull a prioritized subset of CSTA standards for usage in a TEALS Introductory Computer Science class.
+    * Focus on technical standards.
+    * Focus of breaking down high level standards into specific assessment pieces. 
+
+
+# Learning Objectives
+
+All learning objectives should be explainable in three parts in clear language that makes sense to teachers, students, and parents.
+
+1. Objective
+    * What are students expected to achieve?
+
+2. Justification
+    * Why are students expected to know this?
+
+3. Assessment
+    * How do we know students have achieved this objective?
 
 
 # The purpose of assessment is to improve performance.
