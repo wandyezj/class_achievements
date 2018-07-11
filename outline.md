@@ -95,12 +95,17 @@ All learning objectives should be explainable in three parts in clear language t
 
 1. Objective
     * What are students expected to achieve?
+        * Defined in terms students and parents can understand.
 
 2. Justification
-    * Why are students expected to know this?
+    * Why are students expected to achieve this?
+        * {Endurance, Leverage, Prerequisite}
 
 3. Assessment
     * How do we know students have achieved this objective?
+        * Specific questions they can answer?
+        * Specific problems they can solve?
+        * Specific ways they can demonstrate their skills? 
 
 
 # The purpose of assessment is to improve performance.
@@ -112,7 +117,7 @@ The purpose of the site is to make the class objectives clear and provide clear 
 
 # Specific Site Support Goals
 
-The following are the specific high level scenarios the site should achieve.
+The following are the specific high level scenarios the site should achieve (Priority order).
 
 * Allow the creation of standard objectives and how their achievement can be assessed for a class.
 * Keep track of each students progress towards the classes learning objectives.
@@ -123,6 +128,18 @@ The following are the specific high level scenarios the site should achieve.
     * Each student should be able to note their own progress towards each objective.
         * Each student should be able to indicate areas they think they have achieved and areas they are struggling with.
 
+* Teachers can denote their expectations for an objective to students. {Advanced, Progress, Done}
+    * Advanced
+        * Objectives that have not been covered
+        * Streach goals for students
+        * Bonus Objectives
+        * All Objectives can be considered advanced until denoted 'Progress'
+        * Listing out all objectives allows eager students to work ahead at their own pace.
+    * Progress
+        * Objectives that most students should be working on.
+    * Done
+        * Objectives that most students should have achieved
+        * Students who have not achieved the objective at this point need intervention and extra {help, motivation, encouragement}.
 
 # Site Interactive Scenarios
 
@@ -195,7 +212,6 @@ Releated to Computers
     * Internet
 * Social
     * Privacy
-
 
 
 
