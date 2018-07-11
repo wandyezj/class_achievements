@@ -13,7 +13,7 @@ Standards Based Assessment focuses less on assignments and more on achieving stu
 
 For Example: A student who struggles initially with a subject but who then meets all objectives on the last day of a course should do just as well in a course as a student who has mastered all objectives at the begining of the course.
 
-The class expectation is that **all** students will meet **all** class objectives.
+>The class expectation is that **all** students will meet **all** class objectives.
 
 Learning objectives are defined at a high level along with the specific ways that students can demonstrate they have achieved those objectives. This makes it clear to students and teachers exactly what is required to achieve all course objectives up front.
 
@@ -21,9 +21,87 @@ Learning objectives are defined at a high level along with the specific ways tha
 
 Learning objectives should be assessed across all stages of Blooms Taxonomy. {Remember, Understand, Apply, Analyze, Evaluate, Create}
 
-> It's critical that students are able to master all levels of Blooms Taxonomy for each learning ojective. Developing each students higher level thinking skills is especially critical as these skills are widely applicable.
+> It's critical that students are able to master all levels of Blooms Taxonomy for each learning objective. Developing each students higher level thinking skills is especially critical as these skills are widely applicable.
 
 Students should have many options available for them to demonstrate that they have met a class objective.
+
+# Existing Materials
+
+
+
+## Existing Learning Management Systems (LMS)
+
+Classrooms use a variety of LMS with various levels of support from their adminstrators: {none, optional, mandated}.
+
+LMS that TEALS has encountered in classrooms.
+
+* [Canvas](https://canvas.instructure.com)
+* [Google Classroom](https://edu.google.com/intl/en/k-12-solutions/classroom/)
+* [Schoology](https://www.schoology.com/)
+* [Jupiter Grades](http://jupitered.com/)
+* Other
+* None
+
+
+
+## Existing Standard References
+
+[Computer Science Teachers Association CSTA K-12 Computer Science Standards](https://www.csteachers.org/page/standards)
+
+[Washington State Computer Science K-12 Learning Standards](http://www.k12.wa.us/ComputerScience/LearningStandards.aspx)
+
+[#CSinSF DRAFT CS Teaching Rubric](https://sites.google.com/sfusd.edu/csplc/resources/teaching-rubric)
+
+[ISTE Standards for Computer Science Educators](http://www.iste.org/standards/for-computer-science-educators)
+
+
+
+## Existing Computer Science Curriculum References
+
+[Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
+
+[Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
+
+[TEALS Introductory to Computer Science SNAP Curriculum](https://github.com/TEALSK12/introduction-to-computer-science)
+
+[TEALS Introductory to Computer Science Python Curriculum](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science)
+
+[Code.org](https://studio.code.org/courses)
+
+[Learn Python.org](https://www.learnpython.org/)
+
+
+
+## Analysis of Existing Systems
+
+There are many existing LMS. As TEALS moves through and supports classrooms with new volunteers various LMS are encountered with various levels of support.
+
+There are many Computer Science Standards. The CTSA standard has increasing levels of support and is the one that TEALS would like to support.
+
+There are many Computer Science curriculums. Once objectives are defined we should see what pieces of each curriculum best match to achieving those objectives filling in the gaps where appropriate.
+
+
+Focus Areas:
+
+1. Develop Minimum Viable Product website to host interactive standards as a demonstration platform.
+2. Pull a prioritized subset of CSTA standards for usage in a TEALS Introductory Computer Science class.
+    * Focus on technical standards.
+    * Focus of breaking down high level standards into specific assessment pieces. 
+
+
+# Learning Objectives
+
+All learning objectives should be explainable in three parts in clear language that makes sense to teachers, students, and parents.
+
+1. Objective
+    * What are students expected to achieve?
+
+2. Justification
+    * Why are students expected to know this?
+
+3. Assessment
+    * How do we know students have achieved this objective?
+
 
 # The purpose of assessment is to improve performance.
 
@@ -50,7 +128,7 @@ The following are the specific high level scenarios the site should achieve.
 
 The site will make it readily apparent to teachers how their class is doing, what areas they need to focus on with what groups of students.
 
-The site will be a good tool for teachers to communicate with parents early and often exactly how well their student is doign in class
+The site will be a good tool for teachers to communicate with parents early and often exactly how well their student is doing in class.
 
 The site will make it easy for teachers to report to administrators their classes progress.
 
