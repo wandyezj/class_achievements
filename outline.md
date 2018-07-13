@@ -215,3 +215,39 @@ Releated to Computers
 
 
 
+# Data Model
+
+Outline of the data model to support one class.
+
+Additional tables and some adjustments will be required to support multiple classes or objective groups.
+
+
+## Objectives
+* ID - PK
+* Name
+* Description - What?
+* Justification - Why?
+* Assessment = How?
+* Icon ?
+* Order - sorting order for objective left to right
+* Number - used for updates from external source to update existing objective
+
+## Student
+* ID
+
+## Achievements
+* Student ID
+* Objective ID
+* Teacher Evaluation ID
+* Student Evaluation ID
+
+## Evaluation
+* ID - PK
+* Name
+* Description
+
+
+# Objective Definition Format
+
+Use a markdown file in a standard format to define objectives, this is also more readable
+Translate markdown to JSON for upload to the database
