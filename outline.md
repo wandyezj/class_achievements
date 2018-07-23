@@ -227,10 +227,19 @@ Additional tables and some adjustments will be required to support multiple clas
 * Name
 * Description - What?
 * Justification - Why?
-* Assessment = How?
+* Assessment - How?
 * Icon ?
 * Order - sorting order for objective left to right
 * Number - used for updates from external source to update existing objective
+
+```
+public int Id { get; set; }
+public string Name { get; set; }
+public string Description { get; set; }
+public string Justification { get; set; }
+public string Assessment { get; set; }
+public uint Order { get; set; }
+```
 
 ## Student
 * ID
@@ -251,3 +260,15 @@ Additional tables and some adjustments will be required to support multiple clas
 
 Use a markdown file in a standard format to define objectives, this is also more readable
 Translate markdown to JSON for upload to the database
+
+
+
+# Approach
+
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api
+
+* Need to find what model should be used
+* There are mutiple Options for the website
+* Ideally the Front end is completely separated from the back end APIs
+
+
