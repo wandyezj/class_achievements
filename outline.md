@@ -71,6 +71,10 @@ LMS that TEALS has encountered in classrooms.
 [Learn Python.org](https://www.learnpython.org/)
 
 
+## Online Resources
+[Teach Yourself Computer Science](https://teachyourselfcs.com/)
+
+[IT Hare of Soft.ware](http://ithare.com/)
 
 ## Analysis of Existing Systems
 
