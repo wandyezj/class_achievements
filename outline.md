@@ -165,6 +165,42 @@ For example: Factories, Restaurants, Traffic, etc...
 
 High level objectives in turn can be broken down into more specific objectives and specific ways they can be demonstrated.
 
+## TEALS Objectives
+
+The overall goal of TEALS is to expose all students to Computer Science concepts in order to prepare them for an increasingly technologicaly driven society.
+
+### Teacher
+
+* Teacher can independently teach the Computer Science curriculum
+* Teacher can independently augment and adapt their Computer Science curriculum
+* Teacher is connected to a community of Computer Science teachers the learn new best practices together
+
+### Student
+
+* Students learn practical problem solving techniques applicable to any field
+    * Fishbone diagrams
+    * PDCA Cycle
+    * Define, Measure, Plan, Implement
+
+* Students can write programs to solve problems
+    * Knowledge of the basics
+    * Comfortable using online sources for knowledge
+
+* Students understand technological impact so they can better adapt and be responsible citizens
+    * Vote
+    * Protect themselves and others
+    * Realistically evaluate technology
+
+### Administration
+
+* Administrators can start building technological expertise in their school district
+
+### Parents
+
+* Parents are engaged with their Students and learn from them
+* Parents support additional technical education for their children and in their district
+
+
 ## High Level Objectives Sample
 
 Some thoughts on potential high level objectives.
