@@ -42,6 +42,8 @@ LMS that TEALS has encountered in classrooms.
 * Other
 * None
 
+### Other LMS
+* [Mimir](https://www.mimirhq.com/)
 
 
 ## Existing Standard References
@@ -62,6 +64,8 @@ LMS that TEALS has encountered in classrooms.
 
 [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
 
+[MSU CSE 231](https://www.cse.msu.edu/~cse231/Online/)
+
 [TEALS Introductory to Computer Science SNAP Curriculum](https://github.com/TEALSK12/introduction-to-computer-science)
 
 [TEALS Introductory to Computer Science Python Curriculum](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science)
@@ -71,8 +75,17 @@ LMS that TEALS has encountered in classrooms.
 [Learn Python.org](https://www.learnpython.org/)
 
 
-## Online Resources
+## Other Online Resources
+[Python Tutor](http://pythontutor.com/)
+
 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+
+[W3 Schools](https://www.w3schools.com/)
+
+
+[C++ Reference](http://www.cplusplus.com/)
+
+
 
 [IT Hare of Soft.ware](http://ithare.com/)
 

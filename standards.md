@@ -54,51 +54,59 @@ Description of how the student can know they have achieved the objective.
     * Problem Definition
         * Inquery, research, elicitation
     * Divide and Conquer
+        * Breaking problems down into smaller more managable subproblems that can be solved to solve the larger problem.
     * Isolation
-    * Fishbone Diagrams
-    * Five Whys
-    * SMART goals
+    * [Fishbone Diagrams](https://en.wikipedia.org/wiki/Ishikawa_diagram)
+    * [Five Whys](https://en.wikipedia.org/wiki/5_Whys)
+        * What is the goal of the five whys technique?
+    * [SMART goals](https://en.wikipedia.org/wiki/SMART_criteria)
+    * 5C - Characterize, Contain, Cause, Corrective Action, Control
+    * [PDCA](https://en.wikipedia.org/wiki/PDCA)
     * Design
-        * Accessiblity
+        * [Accessiblity](https://en.wikipedia.org/wiki/Accessibility)
+        * [Universal Design](https://en.wikipedia.org/wiki/Universal_design)
 
 * System Descriptions Concepts
-    * Flow
-        * Sequential
-        * Conditional
-        * Repetative
-    * Data
+    * [Flow](https://en.wikipedia.org/wiki/Control_flow)
+        * Sequential - Order
+        * Conditional - Choice
+        * Repetative - Loops
+    * [Data](https://en.wikipedia.org/wiki/Data)
         * Input
             * Sensors
                 * Keyboard, Mouse, Voice, Cameras, Various different sensors
-            * Analog to Digital via sampling - easiest to explain with sound
+                * Analog to Digital via sampling - easiest to explain with sound
         * Storage
-            * Databases - What is a database?
+            * [Database](https://en.wikipedia.org/wiki/Database) - What is a database?
             * Files
         * Output
-            * Robots
-            * Screens
-            * Sound, Monitors
-            * Movement
-            * Physical Control
+            * Physical Control - Sound, Monitors, Movement, Robots
         * Analysis
             * Data Exploration
             * Statistics
             * Machine Learning
+    * Modeling
+        * What is the purpose of modeling? How can modeling help you solve a problem?
+
     * Operations
     * Organization
 
-* Programming - specific techniques
+* Code - Programming specific techniques
     * Concepts
     * Flow
         * trace execution
-        * 
+        * track individual variable states
+        * read code on paper and know the expected output
     * Data
         * variables
-        * types
-            * string
-            * int
-            * float
-            * list
+            * concept map of name to value
+            * tracking variable values
+            * assignment
+            * types
+                * string
+                * int
+                * float
+                * list
         * files
     * Control
         * Boolean Logic
@@ -123,6 +131,8 @@ Description of how the student can know they have achieved the objective.
             * infinite loops
                 * identification
                 * resolution
+            * condition controlled loops
+            * count controlled loops
             * control with boolean logic
         * for loops
             * fancy while loop
@@ -130,6 +140,7 @@ Description of how the student can know they have achieved the objective.
     * Operations
         * Operator overloading
         * int
+            * Order of operations
             * addition
             * subtraction
             * multiplication
@@ -144,6 +155,7 @@ Description of how the student can know they have achieved the objective.
             * power
         * string
             * concatenation
+            * duplicate
             * lower
             * split
             * strip
@@ -151,11 +163,16 @@ Description of how the student can know they have achieved the objective.
         * bool
         * list
             * initialization
+            * length
             * indexing
+                * Understand that can only index places that are there
+                * Model of list by position
             * appending
+            * value replacement
             * in
+            * sort
         * type conversion
-            * perfer explicit conversion
+            * prefer explicit conversion
             * implicit conversion - avoid
     * Organization
         * Comments
@@ -169,6 +186,12 @@ Description of how the student can know they have achieved the objective.
         * iteration through list
             * find minimum value in a list
             * find max value in a list
+    * Practices
+        * reading documentation
+        * using libraries
+        * searching internet for answers
+        * [debugging](https://www.cse.msu.edu/~cse231/Online/debugging.pdf) 
+
 
 
 There are potentially additional objectives around communication and teamwork as these are essential for problem solving. Strong teams are made of strong individuals who work together well.
