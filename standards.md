@@ -48,6 +48,7 @@ Description of how the student can know they have achieved the objective.
         * Privacy
         * Security
         * Accessibility
+        * Control of the internet and technology
     
 
 * Problem Solving Techniques
@@ -87,6 +88,7 @@ Description of how the student can know they have achieved the objective.
             * Machine Learning
     * Modeling
         * What is the purpose of modeling? How can modeling help you solve a problem?
+        * Describing the world in terms of directions
 
     * Operations
     * Organization
