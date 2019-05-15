@@ -40,3 +40,9 @@ It looks like it's already done so everyone behaves incorrectly believing (even 
 To the point that there's UI mockup tools out there that deliberately look like you're sketching something out on a napkin
 
 We also talked about that in the Project Post-AP Management CS class, that sometimes you start a project and realize in the initiating phase that the proper solution isn't to build something but to just use some existing thing instead
+
+The class should be about what the student wants to create and the teachers role should be that of a mentor helping them achieve that creation, learning the various skills they need along the way.
+
+A sense of ownership and control over their project should motivate students more intrinsically than following rote problems.
+
+The student should be in control of their own learning and should feel in control, the role of teh teacher is to create an environment where students are directed in a certain direction and presented with problems that help grow their skills. 
